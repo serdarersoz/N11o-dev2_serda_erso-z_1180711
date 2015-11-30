@@ -16,7 +16,7 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/N11Assignment2$DBTests.coverage" NAME="DBTests Coverage Results" MODIFIED="1447591486212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.jazzcript.assignment2.tests.*</FILTER>
+      <FILTER>com.bangbubble.assignment2.tests.*</FILTER>
     </SUITE>
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -155,32 +155,32 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/forms.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/bio.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jazzcript/assign/controllers/Controller.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bangbubble/assign/controllers/Controller.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/add.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jazzcript/midterm/models/TeamModel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jazzcript/midterm/models/ScoreModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bangbubble/midterm/models/TeamModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bangbuble/midterm/models/ScoreModel.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/update.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jazzcript/midterm/sec/CSRFService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bangbubble/midterm/sec/CSRFService.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/addscore.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jazzcript/midterm/models/ScoreOutputModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bangbubble/midterm/models/ScoreOutputModel.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scorelist.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jazzcript/midterm/db/InitDB.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jazzcript/midterm/models/ScoreInputModel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jazzcript/midterm/models/BookModel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jazzcript/midterm/db/DBWorker.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jazzcript/midterm/controllers/Controller.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bangbubble/midterm/db/InitDB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bangbubble/midterm/models/ScoreInputModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bangbubble/midterm/models/BookModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bangbubble/midterm/db/DBWorker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bangbubble/midterm/controllers/Controller.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/ehcache.xml" />
         <option value="$PROJECT_DIR$/src/main/resource/ehcache.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jazzcript/assignment2/tests/component.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jazzcript/assignment2/tests/DBTests.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/jazzcript/assignment2/AppTests.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jazzcript/assignment2/controllers/Controller.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/jazzcript/assignment2/DBTests.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jazzcript/assignment2/models/BookModel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jazzcript/assignment2/db/DBWorker.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jazzcript/assignment2/db/InitDB.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jazzcript/assignment2/utils/Utils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jazzcript/assignment2/cache/CacheConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bangbubble/assignment2/tests/component.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bangbubble/assignment2/tests/DBTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bangbubble/assignment2/AppTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bangbubble/assignment2/controllers/Controller.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bangbubble/assignment2/DBTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bangbubble/assignment2/models/BookModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bangbubble/assignment2/db/DBWorker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bangbubble/assignment2/db/InitDB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bangbubble/assignment2/utils/Utils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bangbubble/assignment2/cache/CacheConfig.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/secfailed.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/failed.jsp" />
@@ -334,20 +334,20 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\rashakol\IdeaProjects\N11Odev2\src\main\resource" />
-      <recent name="C:\Users\rashakol\IdeaProjects\N11Assignment2\src\main\webapp\WEB-INF" />
-      <recent name="C:\Users\rashakol\IdeaProjects\N11Assignment2\src\main\resources" />
-      <recent name="C:\Users\rashakol\IdeaProjects\PersonelWebSite\src\main\webapp\resources" />
+      <recent name="C:\Users\bangbubble\IdeaProjects\N11Odev2\src\main\resource" />
+      <recent name="C:\Users\bangbubble\IdeaProjects\N11Assignment2\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\bangbubble\IdeaProjects\N11Assignment2\src\main\resources" />
+      <recent name="C:\Users\bangbubble\IdeaProjects\PersonelWebSite\src\main\webapp\resources" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.odev2" />
-      <recent name="com.jazzcript.assignment2" />
+      <recent name="com.bangbubble.assignment2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\rashakol\IdeaProjects\N11Odev2\src\main\webapp\WEB-INF" />
-      <recent name="C:\Users\rashakol\IdeaProjects\N11Assignment2\src\main\java\com\jazzcript\assignment2\tests" />
-      <recent name="C:\Users\rashakol\IdeaProjects\N11Assignment2\src\main\resource" />
-      <recent name="C:\Users\rashakol\IdeaProjects\PersonelWebSite\src\main\webapp\resources\images" />
+      <recent name="C:\Users\bangbubble\IdeaProjects\N11Odev2\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\bangbubble\IdeaProjects\N11Assignment2\src\main\java\com\bangbubble\assignment2\tests" />
+      <recent name="C:\Users\bangbubble\IdeaProjects\N11Assignment2\src\main\resource" />
+      <recent name="C:\Users\bangbubble\IdeaProjects\PersonelWebSite\src\main\webapp\resources\images" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 8.0.28">
@@ -1268,7 +1268,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PersonelWebSite/src/main/java/com/jazzcript/midterm/db/DBWorker.java">
+    <entry file="file://$PROJECT_DIR$/../PersonelWebSite/src/main/java/com/bangbubble/midterm/db/DBWorker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.37965262">
           <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="35" selection-end-column="9" />
