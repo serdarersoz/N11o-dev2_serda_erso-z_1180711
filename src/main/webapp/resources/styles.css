@@ -1,0 +1,19 @@
+table {
+    color: #996;
+    font-family: Helvetica, Arial, sans-serif;
+    width: 80%;
+    border-collapse:
+            collapse; border-spacing: 0;
+}
+
+td, th { border: 1px dashed #868; height: 45px; }
+
+th {
+    background: #F0F0FF;
+    font-weight: bold;
+}
+
+td {
+    background: #FAFFFA;
+    text-align: center;
+}
